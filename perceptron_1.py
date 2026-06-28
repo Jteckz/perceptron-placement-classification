@@ -14,7 +14,7 @@ from sklearn.linear_model import Perceptron
 # ============================================
 # Load Dataset
 # ============================================
-df = pd.read_csv('placement.csv')
+df = pd.read_csv('placement 2.csv')
 
 print(df.head())
 
